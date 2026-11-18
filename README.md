@@ -12,8 +12,7 @@ Choose a car, explore the island, discover my software projects, and take on dri
 
 *Ariel University — one of the portfolio stations across the island.*
 
-## ![](assets/decorations/car.svg) About the Project
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/car-front.svg" width="30" height="30" align="top" alt=""> About the Project
 
 The garage is your starting point.
 
@@ -25,8 +24,7 @@ You can also open the portfolio directory to discover my projects without comple
 
 This is a showcase repository. The Unity source, website source, and WebGL build files are maintained separately.
 
-## ![](assets/decorations/car.svg) Features
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/blocks.svg" width="30" height="30" align="top" alt=""> Features
 
 - **Three showroom vehicles.** Browse the garage, choose a car, and drive onto the island.
 - **Portfolio stations.** Discover projects, education, experience, and contact information.
@@ -36,8 +34,7 @@ This is a showcase repository. The Unity source, website source, and WebGL build
 - **Desktop and touch input.** Drive with keyboard controls or on-screen touch controls.
 - **Two languages.** Play in English or Hebrew in the same game build.
 
-## ![](assets/decorations/car.svg) A Little Secret... 😉
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/key-round.svg" width="30" height="30" align="top" alt=""> A Little Secret... 😉
 
 > There's a hidden terminal in the garage.
 >
@@ -45,8 +42,7 @@ This is a showcase repository. The Unity source, website source, and WebGL build
 >
 > No spoilers here. Good luck!
 
-## ![](assets/decorations/car.svg) Gameplay
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/gamepad-2.svg" width="30" height="30" align="top" alt=""> Gameplay
 
 ### Driving
 
@@ -72,8 +68,7 @@ This is a showcase repository. The Unity source, website source, and WebGL build
 
 *The road network connects the garage, portfolio stations, and driving challenges.*
 
-## ![](assets/decorations/car.svg) Bilingual Experience
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/languages.svg" width="30" height="30" align="top" alt=""> Bilingual Experience
 
 English and Hebrew share one Unity scene and one WebGL build.
 
@@ -87,16 +82,14 @@ The Hebrew interface includes right-to-left text handling.
 | :---: | :---: |
 | ![English welcome artwork without a call-to-action button](assets/screenshots/welcome-en.png) | ![Hebrew welcome artwork without a call-to-action button](assets/screenshots/welcome-he.png) |
 
-## ![](assets/decorations/car.svg) Technologies
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/cpu.svg" width="30" height="30" align="top" alt=""> Technologies
 
 | Part | Technologies |
 | --- | --- |
 | Game | Unity 6 (`6000.3.20f1`), C#, URP 17.3, Unity Input System, uGUI, WebGL |
 | Portfolio website | Next.js, React, TypeScript |
 
-## ![](assets/decorations/car.svg) Engineering Notes
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/code-2.svg" width="30" height="30" align="top" alt=""> Engineering Notes
 
 ### Vehicle Simulation
 
@@ -128,8 +121,7 @@ Driving math, scoring, parking checks, and localization logic live in plain C# c
 
 EditMode tests cover these rules. PlayMode tests cover scene integration.
 
-## ![](assets/decorations/car.svg) Controls
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/keyboard.svg" width="30" height="30" align="top" alt=""> Controls
 
 **In the garage:** use **A / D** or the **left / right arrows** to browse cars.
 
@@ -151,8 +143,7 @@ Press **Enter** to drive.
 
 The garage supports swiping and arrow buttons to browse cars.
 
-## ![](assets/decorations/car.svg) Links
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/external-link.svg" width="30" height="30" align="top" alt=""> Links
 
 - [Play in English](https://elioz-kolani.vercel.app/game/index.html?lang=en)
 - [Play in Hebrew](https://elioz-kolani.vercel.app/game/index.html?lang=he)
@@ -160,8 +151,7 @@ The garage supports swiping and arrow buttons to browse cars.
 - [GitHub profile](https://github.com/Eliozk)
 - [LinkedIn](https://www.linkedin.com/in/elioz-kolani)
 
-## ![](assets/decorations/car.svg) Credits and Licensing
-![](assets/decorations/underline.svg)
+## <img src="assets/decorations/shield-check.svg" width="30" height="30" align="top" alt=""> Credits and Licensing
 
 The game combines project-created work with third-party models, UI, fonts, and audio.
 
